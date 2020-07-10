@@ -1,6 +1,6 @@
 # 基于R的计算基因组学
 
-说明：本书为 [Computational Genomics with R](http://compgenomr.github.io/book/) 的非官方（争取尽快变为官方）中文翻译版本。
+说明：本书为 [Computational Genomics with R](http://compgenomr.github.io/book/) 正在努力变为官方版本路上的中文翻译版本。
 
 ![](https://kaopubear-1254299507.cos.ap-shanghai.myqcloud.com/picgo/20200710222705.png)
 
