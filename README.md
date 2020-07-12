@@ -2,6 +2,8 @@
 
 说明：本书为 [Computational Genomics with R](http://compgenomr.github.io/book/) 正在努力变为官方版本路上的中文翻译版本。目前正在稳定更新中。
 
+**本书固定访问地址**：https://compgenomr.kaopubear.top
+
 ![](https://kaopubear-1254299507.cos.ap-shanghai.myqcloud.com/picgo/20200710222705.png)
 
 ## 中文译者序
