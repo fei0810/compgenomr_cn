@@ -4,6 +4,8 @@
 
 **本书固定访问地址**：[https://compgenomr.kaopubear.top](https://compgenomr.kaopubear.top)
 
+**本书固定访问地址**：[https://compgenomr.kaopubear.top](https://compgenomr.kaopubear.top)
+
 ![](https://kaopubear-1254299507.cos.ap-shanghai.myqcloud.com/picgo/20200710222705.png)
 
 ## 中文译者序
