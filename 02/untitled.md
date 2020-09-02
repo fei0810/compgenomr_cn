@@ -13,7 +13,7 @@ date: '2020-07-18 18:50'
 >
 > 同时我也把这个数据包上传到了网盘，你可以下载后在本地通过 install.packages\("~/Desktop/compGenomRData.tar.gz", repos=NULL,type="source"\) 进行安装 
 >
-> 网盘链接: [https://pan.baidu.com/s/1y8R4b1O1u6Q\_5GR1OHGtKQ](https://pan.baidu.com/s/1y8R4b1O1u6Q_5GR1OHGtKQ) 密码: `kaopubear.top`
+> 网盘链接: [https://pan.baidu.com/s/1y8R4b1O1u6Q\_5GR1OHGtKQ](https://pan.baidu.com/s/1y8R4b1O1u6Q_5GR1OHGtKQ) 密码: `24mh`
 >
 > 备用链接：[https://kaopubear.cowtransfer.com/s/f872844c5b0346](https://kaopubear.cowtransfer.com/s/f872844c5b0346) 密码：`kaopubaer`
 
